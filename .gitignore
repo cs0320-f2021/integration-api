@@ -1,0 +1,9 @@
+target/
+.mvn-classpath
+.classpath
+.project
+.idea/
+**.DS_Store**
+*.prefs
+msulima2
+MgBStIP
